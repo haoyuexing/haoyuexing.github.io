@@ -1,6 +1,6 @@
 haoyuexing.github.com
 =====================
 
-![sketch](https://raw.githubusercontent.com/haoyuexing/RequestListView/master/sketch.png)
+![sketch](https://raw.githubusercontent.com/haoyuexing/haoyuexing.github.com/master/sketch.png)
 
 Website.
